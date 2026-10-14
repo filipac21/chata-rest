@@ -52,7 +52,7 @@ figure img {
 
 figcaption {
     font-size: 0.9em;
-    color: #555;
+    color: #7e7e7e;
     text-align: center;
 }
 
@@ -72,7 +72,7 @@ th,
 td {
     border: 1px solid #ccc;
     padding: 6px 10px;
-    text-align: left;
+    text-align: center;
 }
 
 th {
@@ -84,11 +84,7 @@ tr:nth-child(even) {
     background-color: #d6ecfc;
 }
 
-.cena {
-    text-align: right;
-}
-
 footer {
     margin-top: 30px;
-    color: #070707;
+    color: #7e7e7e;
 }
